@@ -1,24 +1,52 @@
-# README
+![](https://img.shields.io/badge/Re-former-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# re-former
+> This is a simple form application with rails.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ruby on rails
+- SQL
 
-* System dependencies
 
-* Configuration
+## Getting Started
 
-* Database creation
+Clone this repository by copying the link after clicking the "code" button above
+Cd into the cloned directory
+Run ```git checkout feature```
+Run ```bundle install```
+Run ```rails db:create```
+Run ```rails db:migrate```
+Run ```rails server```
+Run "rails server" and visit https://localhost:3000/users/new or
+After creating a user, edit it by visiting https://localhost:3000/users/{insert_user_id}/edit
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Stephanie Sakuhuni**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@stephanie041996](https://github.com/Stephanie041996)
+- LinkedIn: [Stephanie Sakuhuni](www.linkedin.com/in/stephanie-michelle-sakuhuni)
 
-* Deployment instructions
 
-* ...
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Rails guide
+- Microverse
+- The odin project
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
