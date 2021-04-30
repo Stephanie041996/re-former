@@ -12,16 +12,16 @@
 
 ## Getting Started
 
--Clone this repository by copying the link after clicking the "code" button above
--Cd into the cloned directory
--Run ```git checkout feature```
--Run ```bundle install```
--Run ```rails db:create```
--Run ```rails db:migrate```
--Run ```rails server```
--Run "rails server" and visit https://localhost:3000/users/new or
--After creating a user, edit it by visiting https://localhost:3000/users/{insert_user_id}/edit
+- Install the following:
+1. Ruby
+2. Yarn
+3. Rails
+4. Node.js
 
+- Clone this repository by copying the link after clicking the "code" button above
+- Run "bundle Install" in your computer terminal to install required gems
+- Run "rails server" and visit https://localhost:3000/users/new or 
+- After creating a user, edit it by visiting https://localhost:3000/users/{insert_user_id}/edit 
 ## Authors
 
 👤 **Stephanie Sakuhuni**
